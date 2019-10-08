@@ -1,0 +1,17 @@
+a {
+	text-decoration: none;
+	font-size: 1.5rem;
+	color: #FFF; 
+	z-index: 5;
+	position: relative;
+	top:-2em;
+	padding: 5px;
+}
+h2{
+	font-size: 8rem;
+	color: #FFF;
+	
+}
+h1{
+	
+}
